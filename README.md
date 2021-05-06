@@ -3,7 +3,7 @@
 
 ### Bot yang dapat memutar musik pada panggilan suara grup telegram
 
-# Repo Music Yang Di Buat Oleh @PacarFerdilla
+# Repo Music Yang Di Buat Oleh https://t.me/Ndiridoangni https://t.me/lifetodei
 
 ![!Logo Music King](https://telegra.ph/file/d7d08e4478636ed54ad66.jpg)
 
