@@ -41,7 +41,7 @@ async def start(_, message: Message):
                         "𝙋𝙚𝙧𝙞𝙣𝙩𝙖𝙝", url="https://telegra.ph/𝖢𝖺𝗋𝖺-𝖯𝖺𝗄𝖺𝗂-04-24"
                     ),
                     InlineKeyboardButton(
-                        "🎁 𝘿𝙤𝙣𝙖𝙨𝙞 🎁", url="https://t.me/PacarFerdilla"
+                        "🎁 𝘿𝙤𝙣𝙖𝙨𝙞 🎁", url="https:"//t.me/Ndiridoangni https://t.me/lifetodei"
                     )
                 ]
             ]
@@ -59,7 +59,8 @@ async def gstart(_, message: Message):
                         "𝙂𝙧𝙤𝙪𝙥 𝙎𝙪𝙥𝙥𝙤𝙧𝙩", url="https://t.me/KingUserbotSupport"
                     ),
                     InlineKeyboardButton(
-                        "𝙈𝙖𝙨𝙩𝙚𝙧", url="https://t.me/PacarFerdilla"
+                        "𝗢𝘄𝗻𝗲𝗿", url="https:"//t.me/Ndiridoangni https://t.me/lifetodei"
+
                     )
                 ]
             ]
@@ -76,7 +77,7 @@ async def gstart(_, message: Message):
                         "𝙂𝙧𝙤𝙪𝙥 𝙎𝙪𝙥𝙥𝙤𝙧𝙩", url="https://t.me/KingUserbotSupport"
                     ),
                     InlineKeyboardButton(
-                        "𝙈𝙖𝙨𝙩𝙚𝙧", url="https://t.me/PacarFerdilla"
+                        "𝗢𝘄𝗻𝗲𝗿", url= https:"//t.me/Ndiridoangni https://t.me/lifetodei"
                     )
                 ]
             ]
